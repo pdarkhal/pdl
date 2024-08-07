@@ -1,3 +1,4 @@
 warp://[2606:4700:d0::c025:f7f4:1014:2020]:7152/?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4
 warp://[2606:4700:d0::18b1:be9b:f870:706c]:7152/?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4
 warp://[2606:4700:d0::972e:dbff:da42:d9b5]:988/?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4
+warp://auto6/?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4
