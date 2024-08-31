@@ -1,3 +1,2 @@
-warp://[2606:4700:d0::c025:f7f4:1014:2020]:7152/?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#1
-warp://auto6/?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#2
-warp://[2606:4700:d0::53fa:ac12:3de3:1a9b]:5956/?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#3&&detour=warp://162.159.195.62:1843/?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#Game
+warp://[2606:4700:d0::b07a:2362:a080:e1d7]:7156/?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#S1&&detour=warp://162.159.195.34:945/?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#GAME1
+warp://[2606:4700:d0::53fa:ac12:3de3:1a9b]:5956/?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#S2&&detour=warp://162.159.195.62:1843/?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#GAME2
